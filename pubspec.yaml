@@ -47,7 +47,7 @@ dev_dependencies:
     auto_route_generator: ^7.3.0
     hive_generator: ^2.0.0
     drift_dev: ^2.3.3
-    build_runner: ^2.2.0
+    build_runner: ^2.4.8
     squirrel:
         git: https://github.com/jonathanmajh/squirrel-flutter
 
